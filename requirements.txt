@@ -1,0 +1,8 @@
+PyPDF2
+tqdm
+requests
+langchain
+litellm
+ipywidgets
+qdrant-client
+duckduckgo-search
