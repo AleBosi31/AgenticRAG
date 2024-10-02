@@ -23,7 +23,7 @@ Agentic RAG è un sistema di risposta alle domande che:
 
 1. Clona il repository:
    ```
-   git clone https://github.com/tuousername/agentic-rag.git
+   git clone https://github.com/abdelalihassouna/AgenticRAG
    ```
 2. Installa le dipendenze:
    ```
