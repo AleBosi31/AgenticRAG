@@ -15,3 +15,6 @@ def aleb_function():
 
 def BeatriceFunction():
     print("Prova dopo pull")
+
+def swannFunction():
+    print("Eccomi ci sono anche io !!")
