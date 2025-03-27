@@ -8,3 +8,5 @@ def gabriele_function(n):
         print('è divisibile per 2')
 
 >>>>>>> ba073059c7331fb54dda345b51f349fa9e135c14
+def Alebragato_funcion():
+    print("ciao a tutti")
