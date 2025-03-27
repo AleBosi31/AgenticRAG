@@ -20,3 +20,6 @@ def swannFunction():
 
 def ChiaraFunction():
     print("Tentativo numero n")
+
+def AleBosiFunction():
+    print("AleBosiFunction")
