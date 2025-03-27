@@ -70,3 +70,7 @@ Siamo sempre alla ricerca di contributi per migliorare Agentic RAG! Se hai idee 
 ## 📜 Licenza
 
 Questo progetto è distribuito sotto la licenza MIT. Vedi il file `LICENSE` per maggiori dettagli.
+
+
+
+Primo commit di alessandro_b
